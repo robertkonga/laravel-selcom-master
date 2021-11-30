@@ -1,5 +1,5 @@
 {
-    "name": "robertkonga/laravel-selcom",
+    "name": "robertkonga/laravel-selcom-master",
     "description": "Laravel package that integrates with Selcom APIs (Utility Payments, Wallet Cashin, Agent Cashout, C2B, Qwiksend, VCN, Checkout & International Money Transfer",
     "license": "MIT",
     "version": "1.0.0",
